@@ -1,0 +1,36 @@
+<resources>
+    <string name="merhaba">WELCOME : )</string>
+    <string name="app_name">The REMINDER</string>
+    <string name="the_reminder">The REMINDER</string>
+    <string name="new_reminder">NEW REMINDER</string>
+    <string name="reminders">REMINDERS</string>
+    <string name="name">Reminder Name</string>
+    <string name="reminder_name">Reminder Name</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat Every</string>
+    <string name="min">Min</string>
+    <string name="add">Add</string>
+    <string name="delete">DELETE</string>
+    <string name="edit">EDIT</string>
+    <string name="light">LIGHT</string>
+    <string name="dark">DARK</string>
+    <string name="mode">Mode</string>
+    <string name="settings">SETTINGS</string>
+    <string name="textview">DATE</string>
+    <string name="textview5">HOUR</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="select_ringtone">SELECT RINGTONE</string>
+    <string name="ringtone_path">Ringtone Path</string>
+    <string name="send" />
+    <string name="subject">Subject</string>
+    <string name="send2">SEND</string>
+    <string name="body">BODY</string>
+    <string name="to">TO</string>
+    <string-array name="etiket">
+        <item>Birthday</item>
+        <item>Meeting</item>
+        <item>Anniversary</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
